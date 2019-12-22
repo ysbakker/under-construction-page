@@ -1,2 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
+# You probably shouldn't let anyone crawl this page as it's just a placeholder
 User-agent: *
+Disallow: /

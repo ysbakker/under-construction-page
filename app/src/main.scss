@@ -22,7 +22,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  padding: 2em 0;
+
+  @media screen and (min-width: 600px) {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 2em 0;
+  }
 }
 
 .container {
@@ -32,7 +37,6 @@ body {
   @media screen and (min-width: 600px) {
     border: 1px solid #ddd;
     border-radius: 8px;
-    // box-shadow: 3px 3px 10px 0px #ddd;
   }
 }
 

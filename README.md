@@ -1,2 +1,2 @@
-# under-construction-page
+# "Under construction" page
 A website placeholder if your website isn't finished yet
